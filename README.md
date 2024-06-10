@@ -10,7 +10,7 @@ This is a node application and it is accessible on the command line.
 
 ## Installation
 
-To install the project, pull the code from https://www.github.com/stefanfilm/Shapes and open it in a code editor. Open the index.js in the code editor and view the JavaScript. Create a package.json and run npm init. Answer the questions. Install Inquirer and Jest. 
+To install the project, pull the code from https://github.com/stefanfilm/LogoGenerator and open it in a code editor. Open the index.js in the code editor and view the JavaScript. Create a package.json and run npm init. Answer the questions. Install Inquirer and Jest. 
 
 ## Usage
 
